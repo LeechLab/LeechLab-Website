@@ -9,6 +9,7 @@
       "Online":"https://leechlab.github.io/Tackle-Tanks/"
     },
     "Media":{
+      "Title":"https://raw.githubusercontent.com/LeechLab/LeechLab-Website/96b4ecb35ccbb6b23bf17d1be6edcaf8f11905a7/Game-Index-Images/TackleTanks-Title.svg",
       "Banner":"https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdb1.png",
       "Regular":["https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/HTML_images/Guide_Html/TTversionDifferences.png"],
       "Turn90":[
