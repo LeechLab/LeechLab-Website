@@ -1,0 +1,25 @@
+{
+  "Tackle Tanks":{
+    "Sub":"Online Tank PvP",
+    "Release":"November 23, 2022",
+    "Price":"FREE",
+    "Tags":["PvP","PvE","Multiplayer","Action","Casual","Deathmatch","Vehicles","Online Interactive", "PC"],
+    "Summary":"Battle with your buddies and defeat enemy tanks in this online multiplayer tank game. With each game modes (such as the classic Team Deathmatch) and all of the different tanks to choose from, earn scarps to unlock new skins!",
+    "Links": {
+      "Online":"https://leechlab.github.io/Tackle-Tanks/"
+    },
+    "Media":{
+      "Banner":"https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdb1.png",
+      "Regular":["https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/HTML_images/Guide_Html/TTversionDifferences.png"],
+      "Turn90":[
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdb2.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdd1.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdg1.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tds1.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tds1.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tgm2.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/z2.png",    
+      ]
+    }
+  }
+}
