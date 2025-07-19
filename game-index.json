@@ -11,15 +11,14 @@
     "Media":{
       "Title":"https://raw.githubusercontent.com/LeechLab/LeechLab-Website/96b4ecb35ccbb6b23bf17d1be6edcaf8f11905a7/Game-Index-Images/TackleTanks-Title.svg",
       "Banner":"https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdb1.png",
-      "Regular":["https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/HTML_images/Guide_Html/TTversionDifferences.png"],
-      "Turn90":[
-        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdb2.png",
-        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdd1.png",
-        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tdg1.png",
-        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tds1.png",
-        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/tgm2.png",
-        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/Sources/CSS/lobby_images/z2.png"    
-      ]
+      "Regular":["https://leechlab.github.io/Tackle-Tanks/HTML_images/Guide_Html/ttiov1.png",
+        "https://raw.githubusercontent.com/LeechLab/Tackle-Tanks/refs/heads/main/HTML_images/Guide_Html/TTversionDifferences.png",
+        "https://leechlab.github.io/Tackle-Tanks/HTML_images/Guide_Html/tdg2.png",
+        "https://leechlab.github.io/Tackle-Tanks/HTML_images/Guide_Html/PingUI.png",
+        "https://leechlab.github.io/Tackle-Tanks/HTML_images/mudlands.png",
+        "https://leechlab.github.io/Tackle-Tanks/HTML_images/desert.png",
+        "https://leechlab.github.io/Tackle-Tanks/HTML_images/tropical.png",
+        "https://leechlab.github.io/Tackle-Tanks/HTML_images/shipyard.png"]
     }
   }
 }
